@@ -1,0 +1,3 @@
+D:/dev/gstreamertest/CMakeFiles/test_hello.dir
+D:/dev/gstreamertest/CMakeFiles/ALL_BUILD.dir
+D:/dev/gstreamertest/CMakeFiles/ZERO_CHECK.dir

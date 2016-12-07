@@ -1,0 +1,6 @@
+﻿  latency.c
+D:\gstreamer\1.0\x86_64\include\glib-2.0\gobject/gsignal.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+latency.c(16): warning C4101: 'ret': unreferenced local variable
+latency.c(80): warning C4101: 'demuxer_audio_src_pad': unreferenced local variable
+latency.c(80): warning C4101: 'demuxer_video_src_pad': unreferenced local variable
+  test_hello.vcxproj -> D:\dev\gstreamertest\Debug\test_hello.exe
